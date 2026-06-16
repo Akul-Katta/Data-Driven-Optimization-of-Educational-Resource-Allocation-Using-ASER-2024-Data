@@ -1,0 +1,2 @@
+# Data-Driven-Optimization-of-Educational-Resource-Allocation-Using-ASER-2024-Data
+This project analyzes ASER 2024 data from 22 Indian states to identify factors associated with Grade VIII reading performance. Using correlation analysis, OLS regression, and Random Forest modeling, it develops a data-driven budget allocation framework that prioritizes high-impact educational interventions, particularly digital learning access.
